@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "HackerNewsWebAPI.Controllers.StoriesController",
+    "Method": "GetNewestStories",
+    "RelativePath": "api/Stories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HackerNewsWebAPI.Controllers.StoriesController",
+    "Method": "SearchStories",
+    "RelativePath": "api/Stories/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\HackerNewsWebAPI.exe
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\HackerNewsWebAPI.dll
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\HackerNewsWebAPI.deps.json
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\HackerNewsWebAPI.runtimeconfig.json
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\HackerNewsWebAPI.pdb
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dev\source\repos\HackerNewsWebAPI\HackerNewsWebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
