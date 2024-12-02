@@ -1,0 +1,20 @@
+<div>
+    <input
+      type="text"
+      [(ngModel)]="searchQuery"
+      placeholder="Search stories"
+      (keyup.enter)="searchStories()"
+    />
+    <button (click)="searchStories()">Search</button>
+  </div>
+  <ul>
+    <li
+      *ngFor="let story of stories | paginate: { itemsPerPage: 10, currentPage: currentPage }"
+    >
+      <a *ngIf="story.url" [href]="story.url" target="_blank">{{ story.title }}</a>
+      <span *ngIf="!story.url">{{ story.title }}</span>
+    </li>
+  </ul>
+
+  <pagination-controls (pageChange)="currentPage = $event"></pagination-controls>
+  
